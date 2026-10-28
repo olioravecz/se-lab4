@@ -1,0 +1,2 @@
+GT4500,1,1.0,1,0.0 # Inicializálás: primary 100% hibaráta (1.0), secondary hibátlan
+TORPEDO,SINGLE     # 1. lövés (primary). Hibás lesz, és a specifikáció alapján NEM vált át a másikra!

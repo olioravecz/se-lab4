@@ -1,0 +1,3 @@
+GT4500,2,0,2,0 # Inicializálás 2-2 torpedóval
+TORPEDO,SINGLE # 1. lövés (primary tárból megy)
+TORPEDO,SINGLE # 2. lövés (secondary tárból megy a hűlés miatt)

@@ -1,0 +1,3 @@
+GT4500,2,0,0,0 # Inicializálás: primary 2 db, secondary üres (0 db)
+TORPEDO,SINGLE # 1. lövés (primary tárból megy)
+TORPEDO,SINGLE # 2. lövés (secondary üres, ezért újra a primary tárból próbálja)
