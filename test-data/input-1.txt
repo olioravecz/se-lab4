@@ -1,0 +1,2 @@
+GT4500,1,0,1,0 # Inicializálás 1-1 torpedóval, hiba nélkül
+TORPEDO,SINGLE # Első lövés a primary tárból
