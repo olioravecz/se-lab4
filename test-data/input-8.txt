@@ -1,0 +1,4 @@
+GT4500,1,0,1,0 # Elsődleges: 1, Másodlagos: 1
+TORPEDO,SINGLE # 1. lövés (elsőből - most üres lett)
+TORPEDO,SINGLE # 2. lövés (másodikból - most üres lett)
+TORPEDO,SINGLE # 3. lövés (mindkettő üres)

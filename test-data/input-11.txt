@@ -1,0 +1,2 @@
+GT4500,0,0,0,0 # Elsődleges: 0, Másodlagos: 0
+TORPEDO,ALL
